@@ -1,6 +1,6 @@
 {
   "name": "skia-canvas-with-twemoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A drop-in skia-canvas that draws emoji as Twemoji",
   "type": "module",
   "exports": "./index.js",
