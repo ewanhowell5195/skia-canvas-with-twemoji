@@ -1,10 +1,13 @@
 {
   "name": "skia-canvas-with-twemoji",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A drop-in skia-canvas that draws emoji as Twemoji",
   "type": "module",
   "exports": "./index.js",
-  "files": ["index.js", "twemoji.js"],
+  "files": [
+    "index.js",
+    "twemoji.js"
+  ],
   "author": "Ewan Howell",
   "license": "MPL-2.0",
   "dependencies": {
