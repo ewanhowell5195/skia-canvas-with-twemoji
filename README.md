@@ -2,6 +2,9 @@
 
 ### A drop-in skia-canvas that draws emoji as Twemoji
 
+[![npm version](https://badge.fury.io/js/skia-canvas-with-twemoji.svg)](https://www.npmjs.com/package/skia-canvas-with-twemoji)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
 ```js
 ctx.fillText("Hello 👋", 50, 50)
 ```
